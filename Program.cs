@@ -6,7 +6,6 @@ namespace ExercPropTratExcecoes
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
